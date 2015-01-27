@@ -693,7 +693,13 @@
       <option name="project" value="LOCAL" />
       <updated>1422371866840</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="changed routing path">
+      <created>1422372142354</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1422372142354</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -741,7 +747,8 @@
     <MESSAGE value="removed all the unecessary comments inside the routes.rb file so that its squeaky clean! to use and start this project" />
     <MESSAGE value="added constraints and defaults inside our routes" />
     <MESSAGE value="added users controller" />
-    <option name="LAST_COMMIT_MESSAGE" value="added users controller" />
+    <MESSAGE value="changed routing path" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed routing path" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
